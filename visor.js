@@ -116,7 +116,7 @@ const botonInfo = document.getElementById("boton-icono_info");
   
   // Máquina 7
   botonMaquina7.addEventListener("click", function () {
-    modelo3D.setAttribute("src", "modelos_P1/8_MartilloHidraulico_336.glb");
+    modelo3D.setAttribute("src", "https://cdn.glitch.me/8a916a06-7f72-44a8-a505-618dab84535a/8_MartilloHidraulico_336.glb?v=1710204531422");
   
     botonCargar.style.display = "none";
     botonCompactar.style.display = "none";
